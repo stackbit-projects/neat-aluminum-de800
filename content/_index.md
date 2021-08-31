@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Salut
 white_header: true
 sections:
   - type: hero_section
